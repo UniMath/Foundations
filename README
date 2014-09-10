@@ -1,3 +1,9 @@
+This library is now a part of the UniMath repository, available at
+https://github.com/UniMath/UniMath . The recommended way to obtain this
+library is to install UniMath. Instructions for installing UniMath can
+be found on the UniMath web page. The below installation instructions
+should be considered as obsolete (September 2014).  
+
 By Vladimir  Voevodsky Feb. 2010 - Dec. 2013 .
 
 This is the current version of the mathematical library for the proof assistant Coq based on the univalent semantics for the calculus of inductive constructions. The best way to see in detail what the files in these subdirectories are about is to generate the corresponding tables of content with coqdoc . Here we give a brief outline of the library structure .   
